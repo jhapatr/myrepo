@@ -7,3 +7,5 @@ today is very shining outside
 
 we are going to walking around the community
 
+Changing this file to note that the reflect change in github dated on February 7th Sunday
+That "s set
