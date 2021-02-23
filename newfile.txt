@@ -11,9 +11,21 @@ will see now
 After long 
 time
 i 
-lool
+look
 over
 inside
 the
 github
-
+local 
+machine
+and
+git push origin main
+than 
+see 
+in
+main/origin/remote
+and
+edit
+the
+file
+remote too
